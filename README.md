@@ -24,7 +24,7 @@ Undergraduate internship in Quantum Chemical Simulation Lab in GIST(pf. Hyunwoo 
     <!-- Languages -->
     <p><strong>Frontend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
     </div>
