@@ -28,7 +28,7 @@ Undergraduate internship in Quantum Chemical Simulation Lab in GIST(pf. Hyunwoo 
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
     </div>
-    <!-- Frontend -->
+    <!-- Frontend and Database -->
     <p><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -37,14 +37,10 @@ Undergraduate internship in Quantum Chemical Simulation Lab in GIST(pf. Hyunwoo 
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
         <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
         <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
     </div>
-    <!-- Others -->
+    <!-- Machine Learning -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+        <img src="https://img.shields.io/badge/PyTorch-1.6.0-EE4C2C.svg?style=flat&logo=pytorch">
 </div><br>
