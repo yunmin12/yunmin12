@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 My Interest
-Cheminformatics, especially applying AI to drug discovery, such as virtual screening, lead optimization, and prediction of protein interaction. 
-Undergraduate internship in Quantum Chemical Simulation Lab in GIST(pf. Hyunwoo Kim).
+Cheminformatics, especially applying AI to drug discovery, such as virtual screening, lead optimization, and prediction of protein-ligand interaction. 
+Undergraduate internship in Quantum Chemical Simulation Lab in GIST(pf. Hyun Woo Kim).
 
 ## 🧑‍💻 Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
