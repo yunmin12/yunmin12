@@ -30,6 +30,7 @@ Undergraduate internship in Quantum Chemical Simulation Lab in GIST(pf. Hyun Woo
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
     </div>
+    <!--     
     <!-- Frontend and Database -->
     <p><strong>Frontend and Database</strong></p>
     <div>
@@ -40,7 +41,8 @@ Undergraduate internship in Quantum Chemical Simulation Lab in GIST(pf. Hyun Woo
         <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
         <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-    </div>
+    </div> 
+    -->
     <!-- Machine Learning -->
     <p><strong>Machine Learning</strong></p>
     <div>
