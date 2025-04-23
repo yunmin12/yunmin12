@@ -30,7 +30,7 @@ Undergraduate internship in Quantum Chemical Simulation Lab in GIST(pf. Hyun Woo
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
     </div>
-    <!--     
+<!--     
     <!-- Frontend and Database -->
     <p><strong>Frontend and Database</strong></p>
     <div>
