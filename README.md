@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Yunmin Kim, an undergraduate student in GIST(Gwangju Institute of Science and Technology).
+I am Yunmin Kim, an undergraduate Chemistry major student in GIST(Gwangju Institute of Science and Technology), Republic of Korea.
 I major in Chemistry and minor in AI Convergence. 
 Nice to meet you! 🐥
 <!--
@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 My Interest
-Cheminformatics, especially applying AI to drug discovery, such as virtual screening, lead optimization, and prediction of protein-ligand interaction. 
-Undergraduate internship in Quantum Chemical Simulation Lab in GIST(pf. Hyun Woo Kim).
+Cheminformatics, especially applying AI to protein engineering and drug discovery, such as virtual screening, lead optimization, and prediction of protein-ligand interaction. 
+Undergraduate internship at Quantum Chemical Simulation Lab in GIST(pf. Hyun Woo Kim).
 
 ## 🧑‍💻 Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
