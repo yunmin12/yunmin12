@@ -1,9 +1,9 @@
 ## Hi there 👋
 I am Yunmin Kim, an undergraduate Chemistry major student in GIST(Gwangju Institute of Science and Technology), Republic of Korea.
-I major in Chemistry and minor in AI Convergence. 
+I major in Chemistry and minor in AI Convergence. My passion lies in bridging molecules and models — applying artificial intelligence to protein engineering and drug discovery.
 Nice to meet you! 🐥
 <!--
-**youpe12/youpe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yunmin12/yunmin12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,8 +18,15 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 My Interest
-Cheminformatics, especially applying AI to protein engineering and drug discovery, such as virtual screening, lead optimization, and prediction of protein-ligand interaction. 
-Undergraduate internship at Quantum Chemical Simulation Lab in GIST(pf. Hyun Woo Kim).
+- Protein structure and interaction prediction & generative modeling
+- AI-guided drug discovery: virtual screening, lead optimization
+- Computational chemistry & cheminformatics
+- Scientific communication
+
+## 🔬 Current Activities
+- 👩‍🔬 Undergraduate Internship at Quantum Chemical Simulation Lab in GIST(pf. Hyun Woo Kim)
+- 🧠 Research Intern @ UCSF (Abbasi-Asl Lab): Causal Inference in neuroscience
+- ⭐️ Final project in CS 294 Special Topics: AI Meets Chemistry & Biology @ UC Berkeley: Flow Matching for Flexible Protein-Protein Docking
 
 ## 🧑‍💻 Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -48,3 +55,7 @@ Undergraduate internship at Quantum Chemical Simulation Lab in GIST(pf. Hyun Woo
         <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
         <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 </div><br>
+
+## ✉️ Contact
+
+- [Email](mailto:yunmin_kim@gm.gist.ac.kr), (mailto:yunmin@berkeley.edu)
