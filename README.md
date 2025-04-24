@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - Computational chemistry & cheminformatics
 - Scientific communication
 
-## 🔬 Current Activities
-- 👩‍🔬 Undergraduate Internship at Quantum Chemical Simulation Lab in GIST(pf. Hyun Woo Kim)
-- 🧠 Research Intern @ UCSF (Abbasi-Asl Lab): Causal Inference in neuroscience
-- ⭐️ Final project in CS 294 Special Topics: AI Meets Chemistry & Biology @ UC Berkeley: Flow Matching for Flexible Protein-Protein Docking
+## 🔬 Activities
+- Undergraduate Internship @ GIST (Quantum Chemical Simulation Lab, Advisor: Hyun Woo Kim)
+- Research Intern @ UCSF (Abbasi-Asl Lab): Causal Inference in neuroscience
+- Final project in CS 294 Special Topics: AI Meets Chemistry & Biology @ UC Berkeley: Flow Matching for Flexible Protein-Protein Docking
 
 ## 🧑‍💻 Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 
 ## ✉️ Contact
 
-- [Email](mailto:yunmin_kim@gm.gist.ac.kr), (mailto:yunmin@berkeley.edu)
+- [Email](mailto:yunmin@berkeley.edu)
