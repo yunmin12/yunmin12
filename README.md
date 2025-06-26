@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 
 ## ✉️ Contact
 
-- [Email](mailto:yunmin@berkeley.edu)
+- [Email](mailto:yunmin_kim@gm.gist.ac.kr)
